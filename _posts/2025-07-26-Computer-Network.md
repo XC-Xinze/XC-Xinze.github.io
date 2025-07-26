@@ -1,0 +1,15 @@
+---
+title: Computer Network
+date: 2025-07-26 02:06:40 -0400
+categories: [Notes]
+tags: [notes]     # TAG names should always be lowercase
+description: This is my notes of Computer Network. Based on the slides of Computer Networking:A top-down approach 8th edition.
+---
+**Language:  English**
+
+Introduction of original text book [Computer Networking:A top-down approach ](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm).
+
+[Link of Notes](https://drive.google.com/file/d/1vyzGqcji96F0S13OCuqJD1nR4GQPl8a5/view?usp=drive_link)
+
+> Online reading ONLY. © 2025 Xinze Chen. All rights reserved. This note is for personal study and reference only. Any copying, downloading, dissemination or use for commercial purposes is prohibited. Modification, reproduction or publication of the content is prohibited without the written permission of the copyright owner. If you need to use the content of this note for other purposes, please contact the author for authorization.
+{: .prompt-warning}
