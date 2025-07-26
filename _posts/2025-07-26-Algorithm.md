@@ -7,7 +7,7 @@ description: This is my notes of Algorithm. Based on Introduction to Algorithms.
 ---
 **Language: Chinese and English**
 
-Introduction of original text book [Introduction to Algorithms](http://en.wikipedia.org/wiki/Introduction_to_Algorithms).
+Introduction of original text book [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms).
 
 [Link of Notes](https://drive.google.com/file/d/1JyF-wFXb1Z3vIqOTQiicRZb9pWkNvakf/view?usp=drive_link)
 
