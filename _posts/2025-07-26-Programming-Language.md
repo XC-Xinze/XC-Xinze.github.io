@@ -1,5 +1,5 @@
 ---
-title: Algorithm
+title: Programming Language
 date: 2025-07-26 02:06:40 -0400
 categories: [Notes]
 tags: [notes]     # TAG names should always be lowercase
