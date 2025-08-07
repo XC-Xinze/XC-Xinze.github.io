@@ -10,7 +10,6 @@ I created this website to document my growth, organize knowledge, and fuel my on
 
 Although my interests are broad, I understand the importance of focus. Currently, I am concentrating my efforts on the field of cybersecurity, striving to build a solid foundation through systematic study and hands-on practice. This area not only challenges technical skills but also sharpens problem-solving and defensive thinking.
 
-I am also deeply inspired by the Linux and open-source culture—values of freedom, transparency, and collaboration that embody the ideals I aspire to. I hope to go far on this path, and I wish this website to witness every important milestone along the way.
 
 **- 07.26.2025 Xinze Chen**
 
